@@ -1,0 +1,1 @@
+# Source code for the AI-Powered Consumer Lending Simulation project
